@@ -5,10 +5,10 @@ A tool made for my own SMP, that I decided to post on modrinth
 When a user with the mod joins, it sends the mod list of the client to the server. The server then saves the mod list to a folder called "PlayerMods".
 The saved mod list comes in this formatting
 
-Player : [Client's Minecraft Username]
-Mods :
-[MOD NAME] : [MOD ID} (Server does/does not have this mod)
-etc...
+Player : [Client's Minecraft Username] \n
+Mods : \n
+[MOD NAME] : [MOD ID} (Server does/does not have this mod) \n
+etc... \n
 
 # Reporting Issues
 Yes, **THERE WILL BE BUGS**. This is my first Minecraft mod. Any bugs you find, please report it to the Github.
