@@ -2,6 +2,7 @@
 A tool made for my own SMP, that I decided to post on modrinth
 
 # How does it work?
+![How the mod works](https://i.imgur.com/h89RjJa.gif)
 When a user with the mod joins, it sends the mod list of the client to the server. The server then saves the mod list to a folder called "PlayerMods".
 The saved mod list comes in this formatting
 
